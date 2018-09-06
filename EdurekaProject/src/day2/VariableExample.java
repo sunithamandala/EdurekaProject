@@ -6,6 +6,9 @@ public class VariableExample {
 		int firstNumber;
 		firstNumber= 20;
 		int secondNumber = 2000;
+		int Total = firstNumber + secondNumber;
+		
+		System.out.println("Total :" +Total);
 
 		
 		System.out.println("First Number:" +firstNumber);
